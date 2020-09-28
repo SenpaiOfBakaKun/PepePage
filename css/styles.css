@@ -1,0 +1,52 @@
+
+body
+{
+    font-family: sans-serif;
+    background-color: aquamarine;
+    text-align: center;
+}
+
+.profil
+{
+
+    display: block;
+    border-radius: 300px;
+    height: 300px;
+    width: 300px;
+    margin:100px auto 0 auto;
+    border: solid green 5px;
+ 
+}
+
+.pepePresident
+{
+    display: block;
+    border-radius: 10px 50px 10px 50px;
+    margin: auto;    
+}
+
+h1
+    {
+        font-size: 100px;
+        color:#28CF37;
+        text-align: center;
+        margin-bottom: 100px;
+
+    }
+p
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;      
+}
+
+.unordetList
+{
+    
+    text-align: left;
+    margin: auto;
+}
+
+.ordetList
+{
+    text-align: left;
+}
